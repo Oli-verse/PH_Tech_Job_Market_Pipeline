@@ -3,8 +3,10 @@ import json
 import os
 from datetime import datetime
 from dotenv import load_dotenv
+from pathlib import Path
 
-load_dotenv(dotenv_path="../secret/.env")  # path relative to Ingestion/ folder
+env_path = Path(__file__).resolve().parent.parent / "secret" / ".env"
+load_dotenv(dotenv_path=env_path)
 
 API_KEY = os.getenv("API_KEY")
 
@@ -14,10 +16,10 @@ if API_KEY is None:
 url = f"https://jooble.org/api/{API_KEY}"
 
 def fetch_jobs(keywords, location="Philippines", page=1):
-    payload = {keywords: keywords, "location": location, "page": str(page)}
+    payload = {"keywords": keywords, "location": location, "page": str(page)}
     resp = requests.post(url, json=payload)
-    if resp.raise_for_status():
-        return resp.json()
+    resp.raise_for_status()
+    return resp.json()
 
 def save_raw(data, keywords):
     now = datetime.now()
@@ -37,6 +39,9 @@ def save_raw(data, keywords):
 
 if __name__ == "__main__":
     for role in ["data engineer", "data analyst"]:
-        for page in range(1, 4):  
-            data = fetch_jobs(role, page=page)
-            save_raw(data, role) 
+        for page in range(1, 4):
+            try:
+                data = fetch_jobs(role, page=page)
+                save_raw(data, role)
+            except requests.exceptions.HTTPError as e:
+                print(f"Failed for {role} page {page}: {e}")
