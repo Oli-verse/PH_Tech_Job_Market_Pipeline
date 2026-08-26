@@ -1,0 +1,85 @@
+{
+  "fetched_at": "2026-08-26T00:40:36.455346",
+  "source": "jooble",
+  "query": {
+    "keywords": "data engineer",
+    "location": "Philippines"
+  },
+  "payload": {
+    "totalCount": 66,
+    "jobs": [
+      {
+        "title": "Project Finance Analyst",
+        "location": "Philippines",
+        "snippet": "&nbsp;...Operations & Project Modeling (Front End) Own deal file management\u2014organize, name, version, and maintain project documentation, contracts, and supporting <b>data </b>in a consistent, auditable structure. Prepare inputs and materials for investment and partner decision meetings. O...",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/763815049412159137",
+        "company": "Elevate and Delegate",
+        "updated": "2026-08-05T07:54:36.2230000",
+        "id": 763815049412159137
+      },
+      {
+        "title": "Software Developer & Operations Coordinator (Remote)",
+        "location": "Philippines",
+        "snippet": "Wing is on the exciting mission of redefining the future of work for companies worldwide! We are looking to be the one-stop shop for companies that are looking to build world-class teams & place their operations on autopilot. And we\u2019re looking for a Software Developer &...",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/167907339868074356",
+        "company": "Wing Assistant",
+        "updated": "2026-08-05T07:54:33.6600000",
+        "id": 167907339868074356
+      },
+      {
+        "title": "Software Developer & Operations Coordinator (Remote)",
+        "location": "Philippines",
+        "snippet": " Wing is on the exciting mission of redefining the future of work for companies worldwide! We are looking to be the one-stop shop for companies that are looking to build world-class teams & place their operations on autopilot.  And we\u2019re looking for a  Software Developer...",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/-5695042109109064140",
+        "company": "Wing Assistant",
+        "updated": "2026-07-27T13:54:30.8000000",
+        "id": -5695042109109064140
+      },
+      {
+        "title": "Technical Lead, Machine Learning",
+        "location": "Philippines",
+        "snippet": "&nbsp;...scalable in production. You'll work across model fine-tuning, inference, evaluation, <b>data </b>pipelines and GPU infrastructure while partnering closely with product and backend <b>engineers.</b> What you'll work on Design and scale production ML systems for LLM-based applications...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/6044048510705319105",
+        "company": "OnHires",
+        "updated": "2026-08-05T07:54:35.8030000",
+        "id": 6044048510705319105
+      },
+      {
+        "title": "Tech Lead, Web Core Product & Chrome Extension - Manila, Philippines",
+        "location": "Philippines",
+        "snippet": "&nbsp;...people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend <b>engineers,</b> AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups...&nbsp;",
+        "salary": "",
+        "source": "swooped.co",
+        "type": "",
+        "link": "https://jooble.org/jdp/8986601720083698297",
+        "company": "Speechify",
+        "updated": "2026-02-28T00:00:00.0000000",
+        "id": 8986601720083698297
+      },
+      {
+        "title": "ServiceNow Technical Consultant",
+        "location": "Philippines",
+        "snippet": "&nbsp;..., and industry best practices. \r\n What You Will Bring: \r\n~ Bachelor's degree in  Computer Science  ,  Information Technology  ,  <b>Engineering </b> , or a related field. \r\n~3+ years  of hands-on  ServiceNow  experience. \r\n~ Proven experience designing, developing, and implementing...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/1516134803903512457",
+        "company": "TTEC Digital",
+        "updated": "2026-08-17T13:54:43.5270000",
+        "id": 1516134803903512457
+      }
+    ]
+  }
+}
