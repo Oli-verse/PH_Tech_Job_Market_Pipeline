@@ -1,4 +1,5 @@
 .venv/
 secret/.env
+secret/PROJECT_LOG.md
 __pycache__/
 *.pyc
