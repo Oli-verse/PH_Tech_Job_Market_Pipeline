@@ -1,0 +1,12 @@
+{
+  "fetched_at": "2026-08-31T17:30:00.590177",
+  "source": "jooble",
+  "query": {
+    "keywords": "data engineer",
+    "location": "Philippines"
+  },
+  "payload": {
+    "totalCount": 59,
+    "jobs": []
+  }
+}

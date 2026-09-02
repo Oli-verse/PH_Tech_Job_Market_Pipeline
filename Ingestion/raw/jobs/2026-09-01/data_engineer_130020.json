@@ -1,0 +1,37 @@
+{
+  "fetched_at": "2026-09-01T13:00:20.773025",
+  "source": "jooble",
+  "query": {
+    "keywords": "data engineer",
+    "location": "Philippines"
+  },
+  "payload": {
+    "totalCount": 62,
+    "jobs": [
+      {
+        "title": "Tech Lead, Web Core Product & Chrome Extension - Manila, Philippines",
+        "location": "Philippines",
+        "snippet": "&nbsp;...people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend <b>engineers,</b> AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups...&nbsp;",
+        "salary": "",
+        "source": "swooped.co",
+        "type": "",
+        "link": "https://jooble.org/jdp/8986601720083698297",
+        "company": "Speechify",
+        "updated": "2026-02-28T00:00:00.0000000",
+        "id": 8986601720083698297
+      },
+      {
+        "title": "ServiceNow Technical Consultant",
+        "location": "Philippines",
+        "snippet": "&nbsp;..., and industry best practices. \r\n What You Will Bring: \r\n~ Bachelor's degree in  Computer Science  ,  Information Technology  ,  <b>Engineering </b> , or a related field. \r\n~3+ years  of hands-on  ServiceNow  experience. \r\n~ Proven experience designing, developing, and implementing...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/1516134803903512457",
+        "company": "TTEC Digital",
+        "updated": "2026-08-17T13:54:43.5270000",
+        "id": 1516134803903512457
+      }
+    ]
+  }
+}

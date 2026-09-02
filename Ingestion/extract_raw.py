@@ -5,7 +5,8 @@ from datetime import datetime
 from dotenv import load_dotenv
 from pathlib import Path
 
-env_path = Path(__file__).resolve().parent.parent / "secret" / ".env"
+INGESTION_DIR = Path(__file__).resolve().parent
+env_path = INGESTION_DIR.parent / "secret" / ".env"
 load_dotenv(dotenv_path=env_path)
 
 API_KEY = os.getenv("API_KEY")
@@ -23,9 +24,9 @@ def fetch_jobs(keywords, location="Philippines", page=1):
 
 def save_raw(data, keywords):
     now = datetime.now()
-    folder = f"raw/jobs/{now.strftime('%Y-%m-%d')}"
-    os.makedirs(folder, exist_ok=True)
-    filename = f"{folder}/{keywords.replace(' ', '_')}_{now.strftime('%H%M%S')}.json"
+    folder = INGESTION_DIR / "raw" / "jobs" / now.strftime("%Y-%m-%d")
+    folder.mkdir(parents=True, exist_ok=True)
+    filename = folder / f"{keywords.replace(' ', '_')}_{now.strftime('%H%M%S')}.json"
 
     wrapper = {
         "fetched_at": now.isoformat(),
