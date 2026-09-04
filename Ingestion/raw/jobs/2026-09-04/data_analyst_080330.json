@@ -1,0 +1,109 @@
+{
+  "fetched_at": "2026-09-04T08:03:30.470474",
+  "source": "jooble",
+  "query": {
+    "keywords": "data analyst",
+    "location": "Philippines"
+  },
+  "payload": {
+    "totalCount": 68,
+    "jobs": [
+      {
+        "title": "AI Automations Specialist",
+        "location": "Philippines",
+        "snippet": "&nbsp;...architecture. \r\n-  AI and agentic systems  : LLMs, NLP, RAG and document workflows, AI agents, and connected agents or sub-agents. \r\n-  <b>Data </b>and business intelligence  : Excel, Google Sheets, SQL and databases, analytics, dashboards, and preferably Power BI. \r\n-  Solution...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Part-time",
+        "link": "https://jooble.org/jdp/6970429726125582639",
+        "company": "Coconut VA",
+        "updated": "2026-07-29T13:54:35.8000000",
+        "id": 6970429726125582639
+      },
+      {
+        "title": "Automation / Integration / Zapier Developer",
+        "location": "Philippines",
+        "snippet": "&nbsp;...are not limited to: \r\n Map business processes and build automation workflows using triggers, actions, filters, paths, webhooks, and <b>data </b>transformations. \r\n Integrate SaaS platforms and APIs using secure credentials, validation, and error handling. \r\n Create and maintain...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/5191401274940820023",
+        "company": "Wing Assistant",
+        "updated": "2026-08-21T13:54:44.0400000",
+        "id": 5191401274940820023
+      },
+      {
+        "title": "IT Operations & Automation Engineer",
+        "location": "Philippines",
+        "snippet": "About the Role You will own and scale IT operations for a 75-person fully remote company by combining modern IT administration with automation engineering and AI-powered tooling . From the laptop that arrives at a new hire's door to the automations that provision their ...",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/-9072384321388951681",
+        "company": "Fresh Prints",
+        "updated": "2026-08-05T07:54:32.4100000",
+        "id": -9072384321388951681
+      },
+      {
+        "title": "AI Automation Specialist",
+        "location": "Philippines",
+        "snippet": "&nbsp;...Technologies \r\n Automation:  Zapier, Make (Integromat), n8n \r\n AI Platforms:  OpenAI, Claude \r\n CRM & ATS:  HubSpot, Salesforce, Workable \r\n <b>Data </b>& Operations:  Airtable, Google Sheets \r\n Minimum Technical and Work Environment Requirements: \r\n Internet Connection: \r\n Primary...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/-5268145420881519150",
+        "company": "CrewBloom",
+        "updated": "2026-08-31T15:43:32.1130000",
+        "id": -5268145420881519150
+      },
+      {
+        "title": "AI Automation & Systems Specialist",
+        "location": "Philippines",
+        "snippet": "&nbsp;...is focused on turning AI and automation opportunities into practical, working solutions that save time, reduce manual work, improve <b>data </b>flow and make the business more efficient. \r\n You will work closely with management to understand how different parts of the business...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Temporary",
+        "link": "https://jooble.org/jdp/-6396150918095198056",
+        "company": "Hunt St",
+        "updated": "2026-08-26T12:08:16.5970000",
+        "id": -6396150918095198056
+      },
+      {
+        "title": "QA Automation Engineer",
+        "location": "Philippines",
+        "snippet": "&nbsp;...Exposure to financial services, trading, or capital markets \u2014 order lifecycles, settlement, custody concepts. \r\n WebSockets / real-time <b>data </b> ,  SQL/PostgreSQL  , CI pipelines ( GitHub Actions  or similar). \r\n Familiarity with digital assets or blockchain. \r\n Nice to have:...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/-7578605406469392456",
+        "company": "TASQ",
+        "updated": "2026-08-25T03:31:39.0170000",
+        "id": -7578605406469392456
+      },
+      {
+        "title": "RPA & AI Automation Engineer",
+        "location": "Philippines",
+        "snippet": "&nbsp;...latency, and maintainability. \r\n Design and deploy  AI-powered solutions and agents  for FC operations, including multimodal document/<b>data </b>processing, with appropriate evals, guardrails, observability, QA, security, and documentation. \r\n Partner with FC leadership,...&nbsp;",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/-2221743979144155015",
+        "company": "Spreetail",
+        "updated": "2026-08-17T13:54:43.6430000",
+        "id": -2221743979144155015
+      },
+      {
+        "title": "Social Media & SEO Specialist",
+        "location": "Philippines",
+        "snippet": " About Stranger Soccer  Stranger Soccer ( is a Singapore-based company experiencing explosive growth. In a few short years, after launching a revolutionary platform and  Mobile App  for on-demand football, the company has amassed over 50,000 registered users playing hundreds...",
+        "salary": "",
+        "source": "hireskys.com",
+        "type": "Full-time",
+        "link": "https://jooble.org/jdp/-483182622584234099",
+        "company": "Stranger Soccer",
+        "updated": "2026-08-26T12:07:56.8730000",
+        "id": -483182622584234099
+      }
+    ]
+  }
+}
